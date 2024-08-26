@@ -30,7 +30,7 @@ const  Cart  = () => {
                 </div>
                 <div>
                     <div>Your Cart</div>
-                    <div>Summary</div>
+                    <div>SUMMARY</div>
                     <p>
                         <span>Total Items: {cart.length}</span>
                     </p>
